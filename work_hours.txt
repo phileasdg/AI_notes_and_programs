@@ -1,4 +1,4 @@
 week - Gray work - RA work
 1    -   6h      -   5h    - total = 11h = 11*12.15 = $133.65
-2    -   5h      -   5h    - total = 10h = $ 133.65
+2    -   5h      -   5h    - total = 10h = $ 133.65 - 12.15
 3    -   6h      -   5h    - total = 11h = $ 133.65
